@@ -105,4 +105,4 @@ deploy:
   type: git
   repo: https://github.com/c2006878/c2006878.github.io
   # example, https://github.com/hexojs/hexojs.github.io
-  branch: main
+  branch: master
